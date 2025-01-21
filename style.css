@@ -1,0 +1,21 @@
+
+
+#linea > div {
+    border: 1px solid black;
+    padding: 1%;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#numero1 {
+    border-radius: 20px 0px 0px 0px;
+}
+#numero9 {
+    border-radius: 0px 20px 0px 0px;
+}
+#numero19 {
+    border-radius: 0px 0px 0px 20px;
+}
+#numero27 {
+    border-radius: 0px 0px 20px 0px;
+}
